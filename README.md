@@ -64,7 +64,7 @@ Complete Solana smart contract implementing on-chain 2FA enforcement:
 - ✅ Break-glass emergency access
 - ✅ Open source & audited
 
-### For Developers (SDK)
+### For Developers (SDK) (Currently under development)
 - ✅ 3-line integration
 - ✅ Works with any Solana wallet
 - ✅ Production-ready infrastructure
@@ -96,8 +96,8 @@ Complete Solana smart contract implementing on-chain 2FA enforcement:
 
 ## 📊 Demo & Links
 
-- **Website:** [app.vokter.com](https://app.vokter.com) *(coming soon)*
-- **Demo Video:** [YouTube Link] *(coming soon)*
+- **Website:** [app.vokter.com](https://app.vokter.com)
+- **Demo Video:** [YouTube Link]
 - **Live Demo:** [Try it here] *(coming soon)*
 - **Documentation:** See `/docs` folder
 
@@ -147,10 +147,8 @@ Built with ❤️ for Solana Global Hackathon 2024
 
 ## 📧 Contact
 
-- **Email:** hello@vokter.com
+- **Email:** contact@vokter.com
 - **Twitter:** [@VokterWallet](https://twitter.com/vokterwallet)
-- **Discord:** [Join our community] *(coming soon)*
-
 ---
 
 **Note for Colosseum Reviewers:** This repository contains the open-source components of Vokter. The complete system includes additional proprietary backend services and wallet extension code. For security reasons, we've made the smart contract fully open source for audit while keeping backend infrastructure private. We're happy to provide live demos and answer any technical questions!
