@@ -1,0 +1,30 @@
+# Build artifacts
+**/target/
+**/node_modules/
+**/.anchor/
+**/test-ledger/
+
+# Environment files
+.env
+.env.local
+*.pem
+*.key
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Secrets (never commit!)
+**/secrets/
+**/*-key.json
+*authority-keypair.json
